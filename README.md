@@ -95,7 +95,5 @@ joystick controls, buzzer feedback, and a Web UI via WiFi.
 
 ---
 
----
 
-## 📄 License
-MIT License - Free to use and modify
+ Free to use and modify
